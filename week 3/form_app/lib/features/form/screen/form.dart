@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:form_app/features/form/screen/widget/agree_button.dart';
 import 'package:form_app/features/form/screen/widget/select_gender.dart';
 import 'package:form_app/features/form/screen/widget/labeled_field.dart';
-import 'package:form_app/features/home/screen/home.dart';
 
 class FormScreen extends StatefulWidget {
   const FormScreen({super.key});
